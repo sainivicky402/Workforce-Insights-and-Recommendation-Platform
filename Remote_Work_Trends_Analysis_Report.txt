@@ -1,0 +1,19 @@
+
+Remote Work Trends Analysis Report
+==================================
+Overall Remote Work Rate: 75.50%
+
+Recent Monthly Trends:
+
+- January: 70%
+- February: 72%
+- March: 75%
+
+
+Forecasted Remote Work Trends:
+----------------------------------------
+Month            Forecasted Remote Job Rate (%)
+----------------------------------------
+April: 78.00%
+May: 80.00%
+June: 82.50%
