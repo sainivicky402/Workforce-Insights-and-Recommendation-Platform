@@ -1,4 +1,5 @@
 Workforce Trends Analysis and Job Recommendation Platform
+
 Prepared by: Vicky Saini
 
 Objective
@@ -19,6 +20,7 @@ Remote Work Trends Analysis: Analyze trends in remote work adoption.
 Future Workforce Trends Prediction: Predict future job market trends.
 
 Technology Stack
+
 Data Processing: Python (Pandas, NumPy), SQL
 Machine Learning: Scikit-learn, TensorFlow, PyTorch
 Visualization: Matplotlib, Seaborn, Plotly
